@@ -90,4 +90,12 @@
 
 ---
 
+# Bitácora de Autoevaluación
+
+Durante esta unidad aprendí a aplicar técnicas de inferencia estadística utilizando pruebas de hipótesis, intervalos de confianza, pruebas **t de Student**, **ANOVA** y la prueba **Post-Hoc de Tukey**. Además, comprendí la importancia del valor-p para tomar decisiones estadísticas basadas en evidencia.
+
+La principal dificultad fue interpretar correctamente los resultados de las pruebas y organizar el código utilizando las librerías **SciPy** y **Statsmodels**. También fue necesario comprender cuándo aplicar cada prueba según el tipo de datos y el objetivo del análisis.
+
+Finalmente, logré superar estas dificultades mediante la práctica, obteniendo códigos funcionales y aprendiendo a interpretar los resultados de forma adecuada para resolver problemas relacionados con el análisis de datos.
+
 </div>
