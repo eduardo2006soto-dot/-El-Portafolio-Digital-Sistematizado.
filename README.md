@@ -24,13 +24,13 @@
 
 ### 📘 APE07: Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica
 
-[![📂 Ver APE07](https://img.shields.io/badge/📂_VER_APE07-TLC_y_Distribuciones_Muestrales-28A745?style=for-the-badge)](https://drive.google.com/file/d/1yim7_SuBc-HCKM4FIaFGrK8dIH04GVcl/view?usp=sharing)
+[![📂 Ver APE07](https://img.shields.io/badge/📂_VER_APE07-TLC_y_Distribuciones_Muestrales-28A745?style=for-the-badge)](https://drive.google.com/file/d/1h7hV6XMQP_dkq46mQx-HfhCsnI1Y0WfG/view?usp=sharing)
 
 ---
 
 ### 📘 APE08: Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)
 
-[![📂 Ver APE08](https://img.shields.io/badge/📂_VER_APE08-Inferencia_Estadística-6F42C1?style=for-the-badge)](APE08)
+[![📂 Ver APE08](https://img.shields.io/badge/📂_VER_APE08-Inferencia_Estadística-6F42C1?style=for-the-badge)](https://drive.google.com/file/d/1yim7_SuBc-HCKM4FIaFGrK8dIH04GVcl/view?usp=sharing)
 
 ---
 
