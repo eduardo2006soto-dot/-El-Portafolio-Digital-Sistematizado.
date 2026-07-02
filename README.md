@@ -90,6 +90,16 @@
 
 ---
 
+# 📝 Evaluación Sumativa - Unidad 02
+
+## 📖 Inferencia Estadística y Diagnóstico Paramétrico (ABP)
+
+En esta evaluación se aplican los conocimientos adquiridos sobre inferencia estadística mediante el análisis de un conjunto de datos regional. Se desarrollan pruebas de hipótesis, intervalos de confianza, pruebas **Z** y **t de Student**, análisis de varianza (**ANOVA**) y pruebas **Post-Hoc de Tukey**, interpretando los resultados obtenidos para apoyar la toma de decisiones basadas en evidencia estadística.
+
+[![📝 Ver Evaluación Sumativa](https://img.shields.io/badge/📝_VER_EVALUACIÓN_SUMATIVA-Unidad_02-8A2BE2?style=for-the-badge)](https://drive.google.com/file/d/1-Lvi4T9YPi1FMbY3MgkR7Aze6-SuMxOm/view?usp=sharing)
+
+---
+
 # Bitácora de Autoevaluación
 
 Durante esta unidad aprendí a aplicar técnicas de inferencia estadística utilizando pruebas de hipótesis, intervalos de confianza, pruebas **t de Student**, **ANOVA** y la prueba **Post-Hoc de Tukey**. Además, comprendí la importancia del valor-p para tomar decisiones estadísticas basadas en evidencia.
