@@ -18,7 +18,7 @@
 
 ### 📘 APE06: Distribuciones Continuas Notables
 
-[![📂 Ver APE06](https://img.shields.io/badge/📂_VER_APE06-Distribuciones_Continuas_Notables-1E90FF?style=for-the-badge)](APE06)
+[![📂 Ver APE06]([https://img.shields.io/badge/📂_VER_APE06-Distribuciones_Continuas_Notables-1E90FF?style=for-the-badge](https://colab.research.google.com/drive/1yim7_SuBc-HCKM4FIaFGrK8dIH04GVcl?authuser=1))](APE06)
 
 ---
 
