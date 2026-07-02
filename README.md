@@ -22,37 +22,37 @@
 
 ### 📘 APE00: Fundamentos de Probabilidad y Espacios Muestrales
 
-[![📂 Ver APE00](https://img.shields.io/badge/📂_VER_APE00-Fundamentos_de_Probabilidad-1E90FF?style=for-the-badge)](AQUI_TU_ENLACE_APE00)
+[![📂 Ver APE00](https://img.shields.io/badge/📂_VER_APE00-Fundamentos_de_Probabilidad-1E90FF?style=for-the-badge)](https://drive.google.com/file/d/16MTr-hi5YcgO0KAPapZVnBFGWlS0llIE/view?usp=sharing)
 
 ---
 
 ### 📘 APE01: Variables Aleatorias y Distribuciones de Probabilidad
 
-[![📂 Ver APE01](https://img.shields.io/badge/📂_VER_APE01-Variables_Aleatorias-28A745?style=for-the-badge)](AQUI_TU_ENLACE_APE01)
+[![📂 Ver APE01](https://img.shields.io/badge/📂_VER_APE01-Variables_Aleatorias-28A745?style=for-the-badge)](https://drive.google.com/file/d/1puq7lKko-HXv_hZn16iXfNC--8TgvK43/view?usp=sharing)
 
 ---
 
 ### 📘 APE02: Distribuciones Muestrales y Teorema del Límite Central
 
-[![📂 Ver APE02](https://img.shields.io/badge/📂_VER_APE02-Distribuciones_Muestrales-6F42C1?style=for-the-badge)](AQUI_TU_ENLACE_APE02)
+[![📂 Ver APE02](https://img.shields.io/badge/📂_VER_APE02-Distribuciones_Muestrales-6F42C1?style=for-the-badge)](https://drive.google.com/file/d/1hx1rTgMY9s0ca31KShYISQyClBgMmeNU/view?usp=sharing)
 
 ---
 
 ### 📘 APE03: Variables Aleatorias Discretas y Continuas
 
-[![📂 Ver APE03](https://img.shields.io/badge/📂_VER_APE03-Variables_Discretas_y_Continuas-DC3545?style=for-the-badge)](AQUI_TU_ENLACE_APE03)
+[![📂 Ver APE03](https://img.shields.io/badge/📂_VER_APE03-Variables_Discretas_y_Continuas-DC3545?style=for-the-badge)](https://drive.google.com/file/d/1k8lDDEVe1YI1ukWizI-ddu6snCRl6jXJ/view?usp=sharing)
 
 ---
 
 ### 📘 APE04: Momentos Estadísticos y Análisis de Tendencia Central con Python
 
-[![📂 Ver APE04](https://img.shields.io/badge/📂_VER_APE04-Momentos_Estadísticos-FF8C00?style=for-the-badge)](AQUI_TU_ENLACE_APE04)
+[![📂 Ver APE04](https://img.shields.io/badge/📂_VER_APE04-Momentos_Estadísticos-FF8C00?style=for-the-badge)](https://drive.google.com/file/d/1mpjL9BfLjcQ0Dl8e6PBDm6wPD9pm9H4O/view?usp=sharing)
 
 ---
 
 ### 📘 APE05: Distribuciones Discretas Notables
 
-[![📂 Ver APE05](https://img.shields.io/badge/📂_VER_APE05-Distribuciones_Discretas-20B2AA?style=for-the-badge)](AQUI_TU_ENLACE_APE05)
+[![📂 Ver APE05](https://img.shields.io/badge/📂_VER_APE05-Distribuciones_Discretas-20B2AA?style=for-the-badge)](https://drive.google.com/file/d/1oi716p8KEcYCEByOu6HMaudvviM3HFTL/view?usp=sharing)
 
 ---
 
