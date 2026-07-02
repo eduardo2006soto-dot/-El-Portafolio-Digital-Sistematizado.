@@ -36,7 +36,7 @@
 
 ### 📘 APE09: Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p
 
-[![📂 Ver APE09](https://img.shields.io/badge/📂_VER_APE09-Pruebas_de_Hipótesis-DC3545?style=for-the-badge)](APE09)
+[![📂 Ver APE09](https://img.shields.io/badge/📂_VER_APE09-Pruebas_de_Hipótesis-DC3545?style=for-the-badge)](https://drive.google.com/file/d/1WaY_8mh-le_6pTL93UOvnaAq1U_IQ7uz/view?usp=sharing)
 
 ---
 
