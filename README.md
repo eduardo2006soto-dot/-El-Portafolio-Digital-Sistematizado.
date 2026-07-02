@@ -86,7 +86,7 @@
 
 ### 📘 APE10: Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)
 
-[![📂 Ver APE10](https://img.shields.io/badge/📂_VER_APE10-ANOVA_y_Tukey-FF8C00?style=for-the-badge)](APE10)
+[![📂 Ver APE10](https://img.shields.io/badge/📂_VER_APE10-ANOVA_y_Tukey-FF8C00?style=for-the-badge)](https://drive.google.com/file/d/1igorzdl6rzdkgEMOQSB71O2-sMhUT6AY/view?usp=sharing)
 
 ---
 
