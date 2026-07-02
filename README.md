@@ -24,7 +24,7 @@
 
 ### 📘 APE07: Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica
 
-[![📂 Ver APE07](https://img.shields.io/badge/📂_VER_APE07-TLC_y_Distribuciones_Muestrales-28A745?style=for-the-badge)](APE07)
+[![📂 Ver APE07](https://img.shields.io/badge/📂_VER_APE07-TLC_y_Distribuciones_Muestrales-28A745?style=for-the-badge)](https://drive.google.com/file/d/1yim7_SuBc-HCKM4FIaFGrK8dIH04GVcl/view?usp=sharing)
 
 ---
 
