@@ -100,7 +100,7 @@ En esta evaluación se aplican los conocimientos adquiridos sobre inferencia est
 
 ---
 
-[![🎥 Ver Video de Exposición](https://img.shields.io/badge/🎥_VER_VIDEO-EXPOSICIÓN_UNIDAD_02-FF5733?style=for-the-badge)](https://drive.google.com/file/d/1Eorvv2TSrFgRp275aNsZ-CjpZkuLk7Yf/view?usp=sharing)**
+[![🎥 Ver Video de Exposición](https://img.shields.io/badge/🎥_VER_VIDEO-EXPOSICIÓN_UNIDAD_02-FF5733?style=for-the-badge)](https://drive.google.com/file/d/1Eorvv2TSrFgRp275aNsZ-CjpZkuLk7Yf/view?usp=sharing)
 
 ---
 
