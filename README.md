@@ -100,6 +100,10 @@ En esta evaluación se aplican los conocimientos adquiridos sobre inferencia est
 
 ---
 
+[![🎥 Ver Video de Exposición](https://img.shields.io/badge/🎥_VER_VIDEO-EXPOSICIÓN_UNIDAD_02-FF5733?style=for-the-badge)](https://drive.google.com/file/d/1Eorvv2TSrFgRp275aNsZ-CjpZkuLk7Yf/view?usp=sharing)**
+
+---
+
 # Bitácora de Autoevaluación
 
 Durante esta unidad aprendí a aplicar técnicas de inferencia estadística utilizando pruebas de hipótesis, intervalos de confianza, pruebas **t de Student**, **ANOVA** y la prueba **Post-Hoc de Tukey**. Además, comprendí la importancia del valor-p para tomar decisiones estadísticas basadas en evidencia.
